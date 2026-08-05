@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm passionate about creating software that solves real-wo
 ## 🚀 About Me
 
 - 🎓 Computer Science Student
-- 💼 Founder of **MkhontoTech**
+- 💼 Founder of **Mkhonto Group**
 - 🌐 Building modern web applications with **ASP.NET Core MVC**
 - 🐍 Currently learning **Python** through the **FNB App Academy**
 - 🤖 Developing an AI-powered Document Processing System
@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm passionate about creating software that solves real-wo
 
 ## 🔭 I'm currently working on
 
-- 🤖 Mkhonto Group
+- 🤖 Mkhonto Group (Project)
 - 🌐 ASP.NET Core MVC Web Applications
 - 📄 OCR & Document Automation with Python
 - 💼 Personal Portfolio Website
@@ -35,6 +35,8 @@ Welcome to my GitHub! I'm passionate about creating software that solves real-wo
 - Machine Learning
 - REST APIs
 - Clean Architecture
+- Computer Networking
+- Software Engineering
 - Software Design Patterns
 
 ---
@@ -63,12 +65,11 @@ Welcome to my GitHub! I'm passionate about creating software that solves real-wo
 
 - ASP.NET Core MVC
 - C#
-- Python
-- SQL Server
 - HTML & CSS
 - Bootstrap
 - Git & GitHub
 - Document Processing
+- SQL Server
 
 ---
 
