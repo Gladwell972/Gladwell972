@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm passionate about creating software that solves real-wo
 
 ## 🔭 I'm currently working on
 
-- 🤖 MkhontoTech.DocumentAI
+- 🤖 Mkhonto Group
 - 🌐 ASP.NET Core MVC Web Applications
 - 📄 OCR & Document Automation with Python
 - 💼 Personal Portfolio Website
@@ -116,7 +116,7 @@ Welcome to my GitHub! I'm passionate about creating software that solves real-wo
 ## 📫 Connect with Me
 
 - 📧 Email: sandilemkhonto972@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/gladwell972
+- 💼 LinkedIn: www.linkedin.com/in/gladwell
 
 ---
 
