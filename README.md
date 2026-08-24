@@ -100,14 +100,6 @@ Welcome to my GitHub! I'm passionate about creating software that solves real-wo
 
 ---
 
-## 📊 GitHub Stats
-
-![Gladwell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gladwell972&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gladwell972&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 2026 Goals
 
 - ✅ Master Python
