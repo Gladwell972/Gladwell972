@@ -114,7 +114,7 @@ Welcome to my GitHub! I'm passionate about creating software that solves real-wo
 ## 📫 Connect with Me
 
 - 📧 Email: sandilemkhonto972@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/gladwell
+- 💼 LinkedIn: www.linkedin.com/in/gladwellsibiya
 
 ---
 
